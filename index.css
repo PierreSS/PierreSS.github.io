@@ -27,6 +27,8 @@ body {
 	padding:11px 23px;
 	text-decoration:none;
 	text-shadow:0px -1px 0px #2b665e;
+	margin-left: 50%;
+	margin-top: 10%;
 }
 .myButton:hover {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #6c7c7c), color-stop(1, #768d87));
@@ -41,10 +43,4 @@ body {
 .myButton:active {
 	position:relative;
 	top:1px;
-}
-
-
-.list-group-item {
-	font-size: 30px;
-	margin-left: 50%;
 }
