@@ -1,6 +1,5 @@
 body {
     background-color: #ccc;
-	color: red;
 }
 
 .main-content {
@@ -10,6 +9,7 @@ body {
 
 .body-content {
     margin-top: 50px;
+	color: red;
 }
 
 .link-content {
